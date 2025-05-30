@@ -1,5 +1,5 @@
-//const apiUrl = 'https://api-infonet.onrender.com/api/users'; // Altere a porta se necessário
-const apiUrl = 'http://localhost:8081/api/users';
+const apiUrl = 'https://api-infonet.onrender.com/api/users'; // Altere a porta se necessário
+//const apiUrl = 'http://localhost:8081/api/users';
 
 document.addEventListener('DOMContentLoaded', () => {
   fetchUsers();
